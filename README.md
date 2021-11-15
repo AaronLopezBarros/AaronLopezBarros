@@ -16,8 +16,11 @@
 
 ![Snake animation](https://github.com/Fasping/Fasping/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlopezbarros&show_icons=true&locale=en&layout=compact&theme=dracula" alt="aaronlopezbarros" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlopezbarros&show_icons=true&locale=en&layout=compact&theme=dracula" alt="aaronlopezbarros" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronlopezbarros&show_icons=true&locale=en&theme=dracula" alt="aaronlopezbarros" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronlopezbarros&theme=dracula" alt="aaronlopezbarros" /></p>
 
 
 
