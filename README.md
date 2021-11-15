@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlopezbarros&show_icons=true&locale=en&layout=compact&theme=dracula" alt="aaronlopezbarros" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronlopezbarros&show_icons=true&locale=en&theme=dracula" alt="aaronlopezbarros" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=aaronlopezbarros&show_icons=true&locale=en&theme=dracula" alt="aaronlopezbarros" /></p>
 
 
 
