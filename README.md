@@ -11,7 +11,10 @@
 <p align="center">
 <a align="center" href="https://linkedin.com/in/aaron lopez barros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron lopez barros" height="30" width="40" /></a> 
 
-<p align="center" ><img align="center" src="https://www.codewars.com/users/AaronLopezBarros/badges/large" alt="codewars" /></p> 
+<p align="center" ><img align="center" src="https://www.codewars.com/users/AaronLopezBarros/badges/large" alt="codewars" /></p>
+
+![Snake animation](https://github.com/Fasping/Fasping/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlopezbarros&show_icons=true&locale=en&layout=compact" alt="aaronlopezbarros" /></p>
 
 
