@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarón</h1>
-<h3 align="left">Connect with me:</h3>
+
 
 <img src="https://www.codewars.com/users/AaronLopezBarros/badges/large" alt="codewars" />
 
