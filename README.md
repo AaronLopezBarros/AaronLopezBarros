@@ -14,7 +14,9 @@
 
 <p align="center" ><img align="center" src="https://www.codewars.com/users/AaronLopezBarros/badges/large" alt="codewars" /></p>
 
-![Snake animation](https://github.com/Fasping/Fasping/blob/output/github-contribution-grid-snake.svg)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlopezbarros&show_icons=true&locale=en&layout=compact&theme=dracula" alt="aaronlopezbarros" /></p>
 
