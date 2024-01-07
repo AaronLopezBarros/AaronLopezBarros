@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarón</h1>
 
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -57,8 +56,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlopezbarros&show_icons=true&locale=en&layout=compact&theme=dracula" alt="aaronlopezbarros" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronlopezbarros&show_icons=true&locale=en&theme=dracula" alt="aaronlopezbarros" /></p>
-
-
-
-
-
