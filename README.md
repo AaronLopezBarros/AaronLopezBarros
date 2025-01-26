@@ -1,6 +1,7 @@
-# 👋 Hi! I'm Aarón!  
+# 👋 Hi! I'm Aarón!
 
-**Frontend Developer | Crafting Digital Experiences**  
+## 💻 **Frontend Developer | Crafting Digital Experiences** 🌐
+
 
 👨‍💻 **Frontend Developer** passionate about building modern, functional, and visually stunning web interfaces.  
 🎨 I love blending design and technology to transform ideas into amazing digital experiences.  
