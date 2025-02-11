@@ -19,6 +19,7 @@
 ### 🛠️ Tech Stack:
 - **Languages:** JavaScript, TypeScript.  
 - **Frameworks:** React, Next.js.
+- **Unit Test:** Vitest, React testing library.
 - **Styling:** CSS, SASS, TailwindCSS, Styled Components.  
 - **Version Control:** Git GitHub, & Bitbucket. 
 
